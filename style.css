@@ -2,6 +2,10 @@
     margin: 0%;
 }
 
+#header {
+    text-align: center;
+}
+ 
 #herotitle {
     text-align: center;
     font-family: 'Dancing Script';
@@ -15,4 +19,42 @@
 .section {
     text-align: center;
     margin-top: 10px;
+        
+}
+
+.img {
+    border-radius: 100%;
+    margin-top: 10px;
+    border: 3px double rgb(5, 186, 192);
+}
+
+#redes {
+    margin-top: 8px;   
+    
+}
+
+section ul {
+  position: relative;
+  
+  
+}
+
+.rede {        
+    background-color: rgb(255, 255, 255);
+    color: black ;
+    text-decoration: none;
+    cursor: pointer;   
+    font-size: x-large; 
+    font-style: italic;
+    font-weight: 900;
+}
+
+.rede:hover {
+    color: rgb(5, 186, 192);
+}
+
+.listItem {
+    text-align: center;
+    margin-top: 11px;
+    justify-content: center;
 }
