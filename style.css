@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+}
+
+#herotitle {
+    text-align: center;
+    font-family: 'Dancing Script';
+    font-size: xxx-large;
+    margin-top: 10px;
+    background-color: rgb(5, 186, 192);
+    border: 1px solid;
+    border-top: none;
+}
+
+.section {
+    text-align: center;
+    margin-top: 10px;
+}
